@@ -3,7 +3,7 @@ Este repositório contém a implementação de três algoritmos de busca para re
 Para rodar o projeto em seu ambiente local, siga os passos abaixo:  
 
 1. Clone este repositório:  
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/JulinhaMarques2024/Labirinto-IA
    cd seu-repositorio
   
 2. Instale as dependências necessárias:  
